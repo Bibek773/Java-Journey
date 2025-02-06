@@ -14,5 +14,15 @@ public class swap {
 //        fname = lname;
 //        lname = temp;
 //        System.out.println("First name = " + fname+ " Last name= " + lname);
+
+        System.out.println("Enter value of a");
+        int a = input.nextInt();
+        System.out.println("Enter value of b");
+        int b = input.nextInt();
+
+        a=a+b;
+        b=a-b;
+        a=a-b;
+        System.out.println("Value of a is " + a + ". And value of b is " + b +".");
     }
 }
