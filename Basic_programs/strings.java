@@ -15,7 +15,14 @@ public class strings {
 
 //        char abc = name.charAt(1);
 //        int abc = name.indexOf("r");
-        
+//        boolean abc = name.isEmpty();
+//        String abc = name.toUpperCase();
+//        String abc = name.toLowerCase();
+//        String abc = name.trim();
+
+//        String abc = name.replace('o','a');
+
+
         System.out.println(abc);
     }
 }
