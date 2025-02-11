@@ -20,7 +20,7 @@ public class strings {
 //        String abc = name.toLowerCase();
 //        String abc = name.trim();
 
-//        String abc = name.replace('o','a');
+     String abc = name.replace('o','a');
 
 
         System.out.println(abc);
