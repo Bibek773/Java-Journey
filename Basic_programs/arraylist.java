@@ -1,3 +1,5 @@
+package Basic_programs;
+
 import java.util.ArrayList;
 
 public class arraylist {
@@ -46,6 +48,8 @@ public class arraylist {
             groceryList.add(drinkList);
 
             System.out.println(groceryList);
+            System.out.println(groceryList.get(0));// showing first index, i.e first list of list
+            System.out.println(groceryList.get(0).get(0));// showing item of first list's first index
 
     }
 }
