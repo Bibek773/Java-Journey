@@ -10,6 +10,7 @@ public class arraylist {
         array list is resizable array
         elements can be added and removed after compilation phase
         store reference data type
+
          */
 //        ArrayList<String> food = new ArrayList<String>();
 //        food.add("pizza");//add new element to array list
